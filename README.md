@@ -61,3 +61,11 @@ To study how cache organization and virtual memory influence system performance 
 ```bash
 cd ~/gem5
 scons build/X86/gem5.opt -j4
+
+![b663b482-a4b3-46cf-9517-46be4a73e5ab](https://github.com/user-attachments/assets/199fe6a5-9b85-488d-9112-4d8c9c8ad9fc)
+
+![9a154593-4250-44c4-8a58-a4ba28a6d2b6](https://github.com/user-attachments/assets/3fced490-38e5-4a0d-a37e-bcebcff192a2)
+
+![7e0dd81a-65e0-45f1-9aa5-cd59272bf3c9](https://github.c![a775216e-6174-40d2-b1a0-b54fdf784564](https://github.com/user-attachments/assets/021ef8f1-ad73-4cb7-9174-636590c3dbe5)
+om/user-attachments/assets/396a949e-36be-463b-adea-63d515f54075)
+
